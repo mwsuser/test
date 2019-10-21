@@ -3,3 +3,6 @@
 
 ローカルのレポジトリより修正をかけます。
 
+hello git!
+Edit test!
+branch test!
